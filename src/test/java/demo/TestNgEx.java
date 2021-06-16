@@ -16,4 +16,5 @@ public class TestNgEx {
         Assert.assertEquals(actualText, expectedText,
                 String.format("Expected was %s, but displayed is %s", expectedText, actualText));
     }
+
 }
